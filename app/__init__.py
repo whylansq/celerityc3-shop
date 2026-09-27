@@ -1,0 +1,1 @@
+"""VPN Shop Bot application package."""
